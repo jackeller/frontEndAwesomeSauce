@@ -12,7 +12,7 @@ https://github.com/csswizardry/CSS-Guidelines
 CSS - Scalable SMACSS  
 http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/
 
-BEM *this is actually old school and not as necessary with the advent of preprocessing*  
+BEM *this is not as necessary with the advent of preprocessing*  
 http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 
 Modular SMACSS  
