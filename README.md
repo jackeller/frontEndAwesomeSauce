@@ -32,6 +32,10 @@ http://gitimmersion.com/
 Angular  
 http://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7&utm_source=dlvr.it&utm_medium=twitter
 
+## Node
+Intro to Node.js with Ryan Dahl  
+http://www.youtube.com/watch?v=jo_B4LTHi3I
+
 ## Other
 ThoughtBot  
 https://learn.thoughtbot.com/trails
