@@ -36,6 +36,10 @@ http://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7&utm_sour
 Intro to Node.js with Ryan Dahl  
 http://www.youtube.com/watch?v=jo_B4LTHi3I
 
+## Python
+Creating a Dynamic Python Website
+http://net.tutsplus.com/tutorials/python-tutorials/python-from-scratch-creating-a-dynamic-website/
+
 ## Other
 ThoughtBot  
 https://learn.thoughtbot.com/trails
