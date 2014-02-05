@@ -5,6 +5,12 @@ Front End Awesome Sauce
 Fluent 2012: Paul Irish, "Javascript Development Workflow of 2013"  
 http://www.youtube.com/watch?v=f7AU2Ozu8eo
 
+Javascript Patterns
+http://shichuan.github.io/javascript-patterns/
+
+Module Patterns
+http://toddmotto.com/mastering-the-module-pattern/
+
 ## CSS
 CSS Guidelines  
 https://github.com/csswizardry/CSS-Guidelines
