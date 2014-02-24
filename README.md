@@ -49,6 +49,10 @@ http://www.youtube.com/watch?v=jo_B4LTHi3I
 Creating a Dynamic Python Website  
 http://net.tutsplus.com/tutorials/python-tutorials/python-from-scratch-creating-a-dynamic-website/
 
+##Terminal
+Git Log is so 2005
+http://fredkschott.com/post/2014/02/git-log-is-so-2005/
+
 ## Other
 ThoughtBot  
 https://learn.thoughtbot.com/trails
