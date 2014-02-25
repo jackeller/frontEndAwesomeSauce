@@ -57,5 +57,9 @@ http://fredkschott.com/post/2014/02/git-log-is-so-2005/
 ThoughtBot  
 https://learn.thoughtbot.com/trails
 
+## UI/UX
+Pixel Perfect Precision
+http://cdn.ustwo.com/PPP/PP3.pdf
+
 Editing Markdown Files  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
