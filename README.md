@@ -24,6 +24,10 @@ http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 Modular SMACSS  
 http://thesassway.com/advanced/modular-css-an-example
 
+### SASS
+Better colors in SASS
+http://erskinedesign.com/blog/friendlier-colour-names-sass-maps/
+
 ## Git 
 Learn Git Branching  
 http://pcottle.github.io/learnGitBranching/
