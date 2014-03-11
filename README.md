@@ -67,3 +67,8 @@ http://cdn.ustwo.com/PPP/PP3.pdf
 
 Editing Markdown Files  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+## Design
+http://photoshopetiquette.com/
+
+http://designtipsfromadeveloper.com/
