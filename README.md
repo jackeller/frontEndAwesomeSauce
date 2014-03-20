@@ -72,3 +72,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 http://photoshopetiquette.com/
 
 http://designtipsfromadeveloper.com/
+
+## VIM
+http://www.openvim.com/tutorial.html
+
+http://vim-adventures.com/
