@@ -11,6 +11,9 @@ http://shichuan.github.io/javascript-patterns/
 Module Patterns
 http://toddmotto.com/mastering-the-module-pattern/
 
+Superhero JS - javascript resources
+http://superherojs.com/
+
 ## CSS
 CSS Guidelines  
 https://github.com/csswizardry/CSS-Guidelines
