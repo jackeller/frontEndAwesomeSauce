@@ -80,3 +80,6 @@ http://designtipsfromadeveloper.com/
 http://www.openvim.com/tutorial.html
 
 http://vim-adventures.com/
+
+## Testing
+http://blog.codeship.io/2013/10/31/unit-testing-best-practices-in-angularjs.html
