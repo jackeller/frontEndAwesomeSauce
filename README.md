@@ -89,3 +89,5 @@ http://blog.codeship.io/2013/10/31/unit-testing-best-practices-in-angularjs.html
 
 ## Performance
 http://alistapart.com/article/improving-ux-through-front-end-performance
+
+https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
