@@ -14,6 +14,10 @@ http://toddmotto.com/mastering-the-module-pattern/
 Superhero JS - javascript resources
 http://superherojs.com/
 
+Javascript in 2015
+http://glenmaddern.com/articles/javascript-in-2015
+
+
 ## CSS
 CSS Guidelines  
 https://github.com/csswizardry/CSS-Guidelines
